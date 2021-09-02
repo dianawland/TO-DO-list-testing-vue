@@ -1,0 +1,19 @@
+{
+  "name": "testing-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_test_without_jest.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.2.2",
+    "jest": "^27.0.6"
+  }
+}
